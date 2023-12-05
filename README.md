@@ -15,3 +15,8 @@ help a lot understanding a language's syntax, especially Python.
 **------------------------------------------------**
 
 <3 | I'd like to give my thanks to @kewanfr for giving me the idea of making a GitHub Project out of it.
+
+**------------------------------------------------**
+
+If you're interested in the way I've done things, or you would like to learn about programming, whether it's at a high or beginner level
+DM me ! My discord is in my profile !
