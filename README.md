@@ -6,7 +6,7 @@ Why make it complicated when you can make it simple ? :)
 
 **------------------------------------------------**
 
-- My IDE is  **[Visual Studio Code](https://code.visualstudio.com/download)**, wich I consider useful for new programmers since it has highlights and color schemes that are easily understandable and
+- My IDE (Integrated Development Environment, = programming editor) is  **[Visual Studio Code](https://code.visualstudio.com/download)**, wich I consider useful for new programmers since it has highlights and color schemes that are easily understandable and
 help a lot understanding a language's syntax, especially Python.
 
 - If you're stuck somewhere in your code, not finding where is the problem, I suggest that you start to use **[Python Tutor](https://pythontutor.com/visualize.html#mode=edit)**
