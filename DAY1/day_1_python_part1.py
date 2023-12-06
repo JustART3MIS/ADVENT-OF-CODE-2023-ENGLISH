@@ -1,3 +1,16 @@
+###################################################################################################
+###				ADVENT 			OF			 CODE :			 DAY 1 			PART 1				###
+###################################################################################################
+
+# Day 1 objective :
+# The input that is given to you is a 1000 lines file containing words made with letters and numbers. Your objective is to
+# create a function that selects all number in a word, puts the first and the last one together to make a new one, and then
+# returns the sum of all the new numbers
+
+# Good luck ! 
+
+# Of course, if you want to improve yourself, consider looking at my program, but not copying it, try to make it your own way !
+
 with open("input_day_1.txt", "r") as f:
     user_input = [line for line in f.readlines()]
 
