@@ -8,6 +8,9 @@ def trebuchet(words_list):
 
     Args:
         words_list (str): The input of the day put under a str format
+
+    Returns :
+        int : The sum of all the new numbers created
     """
 
   # Creates a list that will be used to store the new values before making the sum of them
@@ -62,7 +65,7 @@ def trebuchet(words_list):
 
           list_values.append(int(value)) # Adds the new number to the list 'list_numbers'
     
-    return(sum(list_values))
+    return(sum(list_values)) # Returns the sum of all the values in the list
 
 
 
