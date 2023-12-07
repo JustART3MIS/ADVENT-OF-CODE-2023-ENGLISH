@@ -14,7 +14,7 @@ help a lot understanding a language's syntax, especially Python.
 
 **------------------------------------------------**
 
-<3 | I'd like to give my thanks to @kewanfr for giving me the idea of making a GitHub Project out of it.
+<3 | I'd like to give my thanks to [@kewanfr](https://github.com/kewanfr) for giving me the idea of making a GitHub Project out of it.
 
 **------------------------------------------------**
 
